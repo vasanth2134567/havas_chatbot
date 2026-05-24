@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mango Smoothie",
+    "category": "Beverage",
+    "price": "120",
+    "description": "Fresh mango blended drink"
+  },
+  {
+    "name": "Veg Burger",
+    "category": "Food",
+    "price": "180",
+    "description": "Cheesy vegetable burger"
+  },
+  {
+    "name": "Cold Coffee",
+    "category": "Beverage",
+    "price": "150",
+    "description": "Iced creamy coffee"
+  }
+]

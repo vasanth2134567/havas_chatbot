@@ -1,2 +1,22 @@
-# havas_chatbot
-Havas Foods &amp; Beverages is a modern food and beverage brand concept focused on delivering innovative dining experiences, smart customer interaction, and AI-powered digital services. The brand combines technology, creativity, and quality food solutions to create a unique customer experience in the food industry.
+# Havas Foods & Beverages Chatbot
+
+## Setup
+
+1. Install Node.js
+2. Open terminal in this folder
+3. Run:
+
+npm install
+
+4. Add your Gemini API key inside .env
+
+5. Start server:
+
+npm start
+
+6. Open:
+
+http://localhost:3000
+
+## Free Gemini API Key
+https://aistudio.google.com/
